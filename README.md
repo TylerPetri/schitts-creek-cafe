@@ -43,4 +43,4 @@ cd server
 npm run dev
 ```
 
-### PS: written before being taught how to fuck up code in every direction imaginable (a startup that shall not be named aka... trash)
+### PS: written before being taught how to fuck up code in every direction imaginable (a startup that shall not be named aka.............. why is this code better than a multi-million dollar's code FUCKA L;JSHDFGJKL;AHSGJASG)
