@@ -1,6 +1,4 @@
-# Schitts Creek (__*MADE YEARS AGO, SHOWCASING REACT WHILE I WRITE MY NEW PROJECT*__)
-
-A Tropical Cafe app.
+# A Schitts Creek experience. Waiter? How may I server you
 
 ## Initial Setup
 
