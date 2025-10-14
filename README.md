@@ -6,7 +6,7 @@ Create the PostgreSQL database (these instructions may need to be adapted for yo
 
 ```
 psql
-CREATE DATABASE messenger;
+CREATE DATABASE Schitts;
 \q
 ```
 
