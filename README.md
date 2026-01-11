@@ -1,4 +1,5 @@
-# (Pre-Junior-Dev interview project Full-Stack) A Schitts Creek experience. Waiter? How may I server you
+# A Schitts Creek experience. Waiter? How may I server you
+# (Pre-Junior-Dev interview project Full-Stack) 
 
 ## Initial Setup
 
